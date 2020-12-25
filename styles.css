@@ -1,4 +1,4 @@
-body {
+*{
   background-color: rgb(142, 238, 123);
   font-family: 'Raleway', sans-serif;
 }
@@ -113,6 +113,6 @@ p {
 
 .share a:hover {
   background: white;
-  border: 1px solid red;
+  border: 1px solid rgb(4, 0, 255);
   color: red;
 }
